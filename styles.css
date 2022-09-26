@@ -55,6 +55,11 @@ h2 { font-weight: bold;
 h3 {
   color: #11999E;
 }
+.intropara{
+  font-size: 50%;
+}
+.endhead{font-size: 50%;}
+.new{font-size: 50%;}
 
 .footer-link { padding: 20px;
   position:relative;
